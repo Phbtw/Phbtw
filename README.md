@@ -8,7 +8,15 @@
 
 <br/>
 
-<a href="#sobre"><b>Sobre</b></a>  ·  <a href="#competências"><b>Competências</b></a>  ·  <a href="#stack"><b>Stack</b></a>  ·  <a href="#contato"><b>Contato</b></a>
+<div align="center">
+
+<a href="#sobre"><b>Sobre</b></a> &nbsp;·&nbsp;
+<a href="#competências"><b>Competências</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#projetos"><b>Projetos</b></a> &nbsp;·&nbsp;
+<a href="#contato"><b>Contato</b></a>
+
+</div>
 
 </div>
 
