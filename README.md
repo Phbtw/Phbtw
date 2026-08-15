@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="#sobre"><b>Sobre</b></a>  ·  <a href="#competências"><b>Competências</b></a>  ·  <a href="#stack"><b>Stack</b></a>  ·  <a href="#atividade"><b>Atividade</b></a>  ·  <a href="#contato"><b>Contato</b></a>
+<a href="#sobre"><b>Sobre</b></a>  ·  <a href="#competências"><b>Competências</b></a>  ·  <a href="#stack"><b>Stack</b></a>  ·  <a href="#contato"><b>Contato</b></a>
 
 </div>
 
@@ -138,37 +138,21 @@ Durante o desenvolvimento, utilizei **Inteligência Artificial como ferramenta d
 
 <br/>
 
-## Atividade
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phbtw&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=0B2A4A&text_color=8B95A8&include_all_commits=true&count_private=true&locale=pt-br">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Phbtw&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=0B2A4A&text_color=57606A&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phbtw&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=8B95A8&langs_count=6&locale=pt-br">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phbtw&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=57606A&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas">
-</picture>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phbtw&theme=react-dark&bg_color=00000000&color=8B95A8&line=0B2A4A&point=1E5A8A&area=true&area_color=0B2A4A&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
-
-</div>
-
-<br/>
-
 ## Contato
 
 <div align="center">
 
-<a href="mailto:phcopp07@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B0E14?style=for-the-badge&logo=gmail&logoColor=0B2A4A" alt="E-mail" /></a>
+<a href="mailto:phcopp07@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0B0E14?style=for-the-badge&logo=gmail&logoColor=0B2A4A" alt="E-mail" />
+</a>
 
-<a href="https://www.linkedin.com/in/pedro-antoniassi-16b78a363/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0B2A4A" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pedro-antoniassi-16b78a363/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
 
-<a href="https://github.com/Phbtw"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=0B2A4A" alt="GitHub" /></a>
+<a href="https://github.com/Phbtw">
+  <img src="https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=0B2A4A" alt="GitHub" />
+</a>
 
 <br/><br/>
 
